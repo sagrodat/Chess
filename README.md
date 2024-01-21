@@ -14,7 +14,7 @@ The chess contain all rules that are required for the average playing experience
 In order to play or test the game on your machine, download the contents of the "ForDistribution" directory. Make sure to place them in one directory and just launch the ChessGame.exe file. 
 
 # Environment
-The project was solely created in MS Visual Studio 2022 using C++ 17
+The project was solely created in MS Visual Studio 2022 using C++ 17 and the SFML library.
 
 # Assets
 The chess pieces and sounds were downloaded from the web.
