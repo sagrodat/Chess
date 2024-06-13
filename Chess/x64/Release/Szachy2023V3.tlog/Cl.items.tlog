@@ -1,0 +1,17 @@
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\AssetsPath.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\AssetsPath.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\Board.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\Board.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\ChessGame.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\ChessGame.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\drawing.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\drawing.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\EndScreens.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\EndScreens.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\pieceLogic.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\pieceLogic.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\kingStatus.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\kingStatus.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\main.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\main.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\MoveLog.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\MoveLog.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\movingPieces.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\movingPieces.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\myMouse.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\myMouse.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\Piece.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\Piece.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\Pieces.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\Pieces.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\isMoveLegal.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\isMoveLegal.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\Printer.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\Printer.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\SoundEffects.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\SoundEffects.obj
+C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\utilityFunctions.cpp;C:\Users\sagro\Desktop\Chess-master\Chess-master\Szachy2023V3\x64\Release\utilityFunctions.obj

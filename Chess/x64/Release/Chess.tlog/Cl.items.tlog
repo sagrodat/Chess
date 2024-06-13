@@ -1,0 +1,17 @@
+C:\Users\sagro\Downloads\Chess\Chess\Chess\AssetsPath.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\AssetsPath.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Board.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\Board.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\ChessGame.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\ChessGame.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\drawing.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\EndScreens.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\EndScreens.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\pieceLogic.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\pieceLogic.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\kingStatus.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\kingStatus.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\main.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\main.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\MoveLog.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\MoveLog.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\movingPieces.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\myMouse.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\myMouse.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\Piece.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Pieces.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\Pieces.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\isMoveLegal.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\isMoveLegal.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Printer.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\Printer.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\SoundEffects.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\SoundEffects.obj
+C:\Users\sagro\Downloads\Chess\Chess\Chess\utilityFunctions.cpp;C:\Users\sagro\Downloads\Chess\Chess\Chess\x64\Release\utilityFunctions.obj

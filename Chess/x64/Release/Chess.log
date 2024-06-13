@@ -1,0 +1,156 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (ChessGame.vcxproj, Szachy2023V3.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  AssetsPath.cpp
+  Board.cpp
+  ChessGame.cpp
+  drawing.cpp
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(52,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(52,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(73,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(74,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(85,28): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\drawing.cpp(86,28): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  EndScreens.cpp
+  pieceLogic.cpp
+  kingStatus.cpp
+  main.cpp
+C:\Users\sagro\Downloads\Chess\Chess\Chess\main.cpp(94,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\main.cpp(95,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\main.cpp(96,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\main.cpp(96,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MoveLog.cpp
+  movingPieces.cpp
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(51,80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(51,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(52,86): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(52,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(134,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(134,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(200,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(202,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\movingPieces.cpp(202,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  myMouse.cpp
+  Piece.cpp
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(8,37): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(8,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(9,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(9,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(26,10): warning C4101: "field": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(36,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(36,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(45,39): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sagro\Downloads\Chess\Chess\Chess\Piece.cpp(46,39): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Pieces.cpp
+  isMoveLegal.cpp
+  Printer.cpp
+  SoundEffects.cpp
+  utilityFunctions.cpp
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\sagro\Downloads\Chess\Chess\Chess\ChessGame.cpp(59): warning C4715: "ChessGame::getEnemyColor”: niewszystkie ścieżki kodu zwracają wartość
+  All 446 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Chess.vcxproj -> C:\Users\sagro\Downloads\Chess\Chess\x64\Release\Chess.exe
